@@ -16,3 +16,5 @@ github_username:  jffaria
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
