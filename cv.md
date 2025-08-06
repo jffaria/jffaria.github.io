@@ -7,7 +7,7 @@ permalink: /cv/
 # João Felipe Faria
 
 **Technical Account Manager | Software Development Expert | Client Success Specialist**  
-joao.faria@poli.ufrj.br | \+55 21 992242725 | São José dos Campos, São Paulo, Brazil
+faria.jfp@gmail.com | \+55 21 992242725 | São José dos Campos, São Paulo, Brazil
 
 ## Professional Summary
 
@@ -91,8 +91,8 @@ Seasoned software engineering professional with 15+ years of technical expertise
 ## Technical Skills
 
 **Programming Languages:** C/C++, Python, Java, PHP, SQL, JavaScript, MATLAB   
-**Technologies:** SQL/NoSQL Databases, Git, AWS, WordPress, Neural Networks, Machine Learning, DevOps, Embedded Systems   
-**Specializations:** SIM-OTA, eSIM, SM-DP, Broadcasting Systems, Digital Forensics
+**Technologies:** SQL/NoSQL Databases, Git, AWS, WordPress, Machine Learning, DevOps, Embedded Systems   
+**Domain Expertise:** Mathematics, SIM-OTA, eSIM, Broadcasting Systems, Digital Forensics, IoT, LMS
 
 ## Languages
 
@@ -100,4 +100,4 @@ Seasoned software engineering professional with 15+ years of technical expertise
 **English:** Fluent (Professional)  
 **Swedish:** Conversational  
 **Spanish:** Reading Proficiency  
-**Italian:** Reading Proficiency  
+**Italian:** Reading Proficiency
