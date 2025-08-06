@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: J. F. Faria
-email: me@jffaria.com
-description: > # this means to ignore newlines until "baseurl:"
-  Here you will find my recent work, as well as stuff from elsewhere that I found useful. 
+title: João Felipe Faria
+email: joao@jffaria.com
+#description: > # this means to ignore newlines until "baseurl:"
+#  Here you will find my recent work, as well as stuff from elsewhere that I found useful. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jffaria.com" # the base hostname & protocol for your site
-github_username:  jffaria
+#github_username:  jffaria
 
 # Build settings
 markdown: kramdown
